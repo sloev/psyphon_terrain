@@ -1,0 +1,21 @@
+psyphon_terrain
+
+tech used:
+
+processing 2.0a4:
+http://www.processing.org/
+
+syphon:
+http://code.google.com/p/syphon-implementations/downloads/detail?name=Syphon%20for%20Processing%202.0%20Public%20Beta%202%20r4.zip&can=2&q=
+
+shapes3d:
+http://www.lagers.org.uk/s3d4p/distribution/web/index.html
+
+INFO
+when run it makes a syphon texture called processing syphon or something.
+
+TO DO
+*make a control interface on in applet window
+*osc control of different stuff
+*better naming of different windows and syphon texture
+
